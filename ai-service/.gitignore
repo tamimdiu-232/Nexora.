@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local data and generated indexes
+data/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Test and coverage artifacts
+.coverage
+htmlcov/
